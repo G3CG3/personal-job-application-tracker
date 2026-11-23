@@ -1,0 +1,13 @@
+services:
+  db:
+    image: postgres:17.7-alpine3.22
+    container_name: job-tracker-db
+    restart: unless-stopped
+    env_file: ./.env
+    volumes:
+      - job-tracker-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+volumes:
+  job-tracker-data:
