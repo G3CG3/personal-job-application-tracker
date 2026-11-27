@@ -26,7 +26,7 @@
 
 # Phase 1 — Project Documentation
 
-**Status:** In Progress
+**Status:** Completed
 
 - [x] Define project objectives and scope 
 - [x] Define functional requirements
@@ -48,71 +48,45 @@
 
 # Phase 2 — Architecture & Database Design
 
-**Status:** Not Started
+**Status:** Completed
 
 ## 2.1 Application Architecture
 
-- Understand layered architecture
-    
-- Define Controller, Service and Repository responsibilities
-    
-- Define package structure
-    
-- Define DTO strategy
-    
-- Define entity relationships
-    
-- Define exception handling strategy
-    
+- [x] Understand layered architecture
+- [x] Define Controller, Service and Repository responsibilities
+- [x] Define package structure
+- [x] Define DTO strategy
+- [x] Define entity relationships
+- [x] Define exception handling strategy
 
 ## 2.2 Database Design
 
-- Design User entity
-    
-- Design JobApplication entity
-    
-- Design ApplicationStatusHistory entity
-    
-- Design Interview entity
-    
-- Design FollowUp entity
-    
-- Design Document entity
-    
-- Design Document-Application association
-    
-- Define relationships and cardinality
-    
-- Define database constraints
-    
-- Review initial ER diagram
-    
+- [x] Design User entity
+- [x] Design JobApplication entity
+- [x] Design ApplicationStatusHistory entity
+- [x] Design Interview entity
+- [x] Design FollowUp entity
+- [x] Design Document entity
+- [x] Design Document-Application association
+- [x] Define relationships and cardinality
+- [x] Define database constraints
+- [x] Review initial ER diagram
 
 ## 2.3 Database Implementation Preparation
 
-- Understand JPA entity mapping
-    
-- Understand Hibernate
-    
-- Understand entity lifecycle
-    
-- Understand cascade operations
-    
-- Understand database migrations
-    
-- Select and configure a database migration strategy
-    
+- [x] Understand JPA entity mapping
+- [x] Understand Hibernate
+- [x] Understand entity lifecycle
+- [x] Understand cascade operations
+- [x] Understand database migrations
+- [x] Select and configure a database migration strategy
 
 **Deliverables:**
 
-- Architecture documentation
-    
-- ER diagram
-    
-- Initial database design
-    
+- [x] Architecture documentation
+- [x] ER diagram
+- [x] Initial database design
 
-**Estimated effort:** 4–6 days
 
 ---
 
